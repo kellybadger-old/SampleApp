@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace SampleApp
 {
-	class Program
+	class Feature1
 	{
-		static void Main(string[] args)
-		{
-			// Created sample application
-			// Added feature 1 class
-		}
 	}
 }
